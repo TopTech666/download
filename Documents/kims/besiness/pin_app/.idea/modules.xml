@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app_live/app_live.iml" filepath="$PROJECT_DIR$/app_live/app_live.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app_pinse/app_pinse.iml" filepath="$PROJECT_DIR$/app_pinse/app_pinse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/park_lib/park_lib.iml" filepath="$PROJECT_DIR$/park_lib/park_lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/park_lib_business/park_lib_business.iml" filepath="$PROJECT_DIR$/park_lib_business/park_lib_business.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pin_app.iml" filepath="$PROJECT_DIR$/pin_app.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="tyrant:heartlayout-1.0.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/2c1e72e655f979c639a0ddf9e7ed21589cdaa03e/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/2c1e72e655f979c639a0ddf9e7ed21589cdaa03e/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app_fee" />
+            <option value="$PROJECT_DIR$/app_mn" />
+            <option value="$PROJECT_DIR$/fee_func_carchek" />
+            <option value="$PROJECT_DIR$/fee_func_inout" />
+            <option value="$PROJECT_DIR$/fee_main" />
+            <option value="$PROJECT_DIR$/fee_ui_online" />
+            <option value="$PROJECT_DIR$/fee_ui_setting" />
+            <option value="$PROJECT_DIR$/fee_ui_totaldata" />
+            <option value="$PROJECT_DIR$/mn_func_cash" />
+            <option value="$PROJECT_DIR$/mn_func_parkingdata" />
+            <option value="$PROJECT_DIR$/mn_main" />
+            <option value="$PROJECT_DIR$/mn_ui_balance" />
+            <option value="$PROJECT_DIR$/mn_ui_operate" />
+            <option value="$PROJECT_DIR$/mn_ui_setting" />
+            <option value="$PROJECT_DIR$/mn_ui_totaldata_group" />
+            <option value="$PROJECT_DIR$/mn_ui_totaldata_single" />
+            <option value="$PROJECT_DIR$/park_lib" />
+            <option value="$PROJECT_DIR$/park_lib_business" />
+            <option value="$PROJECT_DIR$/pub_ui_login" />
+            <option value="$PROJECT_DIR$/pub_ui_luncher" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
